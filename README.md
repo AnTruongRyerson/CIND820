@@ -10,4 +10,4 @@ Final Project: Wine quality prediction using Machine Learnings
 Link to datasets:
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
-  This study will employ 5 supervised machine learning algorithms, including decision tree, random forest, support vector machine (SVC), logistic regression model, and Naïve Bayes. 
+  This study will employ 5 supervised machine learning algorithms, including decision tree, random forest, support vector machine (SVC), logistic regression model, and Naïve Bayes.
